@@ -13,6 +13,8 @@ Lang:
 ![Java](https://img.shields.io/badge/Java--red?style=flat-square&logo=Java&logoColor=red)<br />
 ![C++](https://img.shields.io/badge/Cpp--blue?style=flat-square&logo=Cpp&logoColor=blue)  
 
+and wait...
+
 - 🔭 I am a graduate student in Wuhan University of technology
 - 🌱 I’m currently learning linux c/c++ qt
 - 📫 How to reach me: 820499122@qq.com
