@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Mapshiny/Mapshiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Env:   
+[![Windows10-preview](https://img.shields.io/badge/MacOS-BigSur-blue?style=flat-square&logo=Apple&logoColor=blue)](https://insider.windows.com/)  
+![VSCode](https://img.shields.io/badge/IDE-VSC-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=blue)
+![CLion](https://img.shields.io/badge/IDE-CLion-green?style=flat-square&logo=CLion&logoColor=violet)
+![IDEA](https://img.shields.io/badge/IDE-IDEA-black?style=flat-square&logo=JetBrains&logoColor=black)
 
-Here are some ideas to get you started:
+Lang:  
+![JS](https://img.shields.io/badge/JavaScript--yellow?style=flat-square&logo=JavaScript&logoColor=yellow)   
+![Java](https://img.shields.io/badge/Java--red?style=flat-square&logo=Java&logoColor=red)  
+![C](https://img.shields.io/badge/C--blue?style=flat-square&logo=C&logoColor=blue)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I am a graduate student in Wuhan University of technology
+- 🌱 I’m currently learning linux c/c++ qt
+- 📫 How to reach me: 820499122@qq.com
+
+
