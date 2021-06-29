@@ -7,7 +7,7 @@ Env:
 
 
 Lang:  
-![JS](https://img.shields.io/badge/JavaScript--yellow?style=flat-square&logo=JavaScript&logoColor=yellow)   
+![Qt](https://img.shields.io/badge/JavaScript--yellow?style=flat-square&logo=JavaScript&logoColor=yellow)   
 ![Java](https://img.shields.io/badge/Java--red?style=flat-square&logo=Java&logoColor=red)  
 ![C++](https://img.shields.io/badge/CPP--blue?style=flat-square&logo=C&logoColor=blue)  
 
