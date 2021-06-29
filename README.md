@@ -10,7 +10,7 @@ Env:
 Lang:  
 
 ![Qt](https://img.shields.io/badge/Qt--yellow?style=flat-square&logo=Qt&logoColor=yellow)<br />
-![Java](https://img.shields.io/badge/Java--red?style=flat-square&logo=Java&logoColor=red)
+![Java](https://img.shields.io/badge/Java--red?style=flat-square&logo=Java&logoColor=red)<br />
 ![C++](https://img.shields.io/badge/Cpp--blue?style=flat-square&logo=C&logoColor=blue)  
 
 - 🔭 I am a graduate student in Wuhan University of technology
