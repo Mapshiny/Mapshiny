@@ -3,7 +3,6 @@
 Env:   
 [![Windows10-preview](https://img.shields.io/badge/MacOS-BigSur-blue?style=flat-square&logo=Apple&logoColor=blue)](https://insider.windows.com/)  
 ![VSCode](https://img.shields.io/badge/IDE-VSC-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=blue)
-![CLion](https://img.shields.io/badge/IDE-CLion-green?style=flat-square&logo=CLion&logoColor=violet)
 ![IDEA](https://img.shields.io/badge/IDE-IDEA-black?style=flat-square&logo=JetBrains&logoColor=black)
 
 Lang:  
