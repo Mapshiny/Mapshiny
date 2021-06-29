@@ -4,6 +4,7 @@ Env:
 [![Windows10-preview](https://img.shields.io/badge/MacOS-BigSur-blue?style=flat-square&logo=Apple&logoColor=blue)](https://insider.windows.com/)  
 ![VSCode](https://img.shields.io/badge/IDE-VSC-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=blue)
 ![IDEA](https://img.shields.io/badge/IDE-IDEA-black?style=flat-square&logo=JetBrains&logoColor=black)
+![example](https://img.shields.io/badge/example-v1.0-red.svg)
 
 Lang:  
 ![JS](https://img.shields.io/badge/JavaScript--yellow?style=flat-square&logo=JavaScript&logoColor=yellow)   
