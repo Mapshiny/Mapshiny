@@ -16,7 +16,7 @@ Lang:
 and wait...
 
 - 🔭 I am a graduate student in Wuhan University of technology
-- 🌱 I’m currently learning linux c/c++ qt
+- 🌱 I’m currently learning linux c/c++ 
 - 📫 How to reach me: 820499122@qq.com
 
 
