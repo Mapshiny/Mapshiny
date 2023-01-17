@@ -5,7 +5,7 @@
 I'm Chrix Wu, a programming enthusiast.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
 
--   👨‍🎓 I am a graduate student in Wuhan University of technology
+-   👨‍🎓 I am a graduate student in Wuhan University of Technology
 -   🔭 I’m currently learning linux c/c++ 
 -   📫 How to reach me: 820499122@qq.com
 
